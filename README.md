@@ -6,13 +6,13 @@ O site foi desenvolvido como parte de um projeto acadêmico, utilizando tecnolog
 
 # Tecnologias Utilizadas
 
-# HTML5 – Estruturação das páginas
+ HTML5 – Estruturação das páginas
 
-# CSS3 – Estilização e layout responsivo
+ CSS3 – Estilização e layout responsivo
 
-# JavaScript – Interatividade e dinamismo
+ JavaScript – Interatividade e dinamismo
 
-# Git & GitHub – Controle de versão e hospedagem
+ Git & GitHub – Controle de versão e hospedagem
 
 # Funcionalidades
 
