@@ -33,17 +33,17 @@ A Rota Cidades do Frio é composta por municípios localizados nas regiões mais
 
 Algumas cidades que fazem parte da rota:
 
-Queimadas
+Pilões
 
 Solânea
 
 Remígio
 
-Puxinanã
+Areia
 
-Pedra Lavrada
+Alagoa Nova e Alagoa Grande
 
-Pedra do Altar
+Bananeiras
 
 Cada cidade possui uma página com informações históricas, culturais e turísticas.
 
@@ -61,5 +61,3 @@ Israel Batista Neto
 Nathan Esley da Silva Santos
 
 Natan Nunes da Silva
-
-Kaik David Diniz
